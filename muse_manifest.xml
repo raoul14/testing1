@@ -1,0 +1,21 @@
+<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="space.com" resolutions="1x" timestamp="1475596529389">
+  <folder name="css">
+    <file name="site_global.css" crc="3916556066"/>
+    <file name="master_a-master.css" crc="122014871" ref="index"/>
+    <file name="index.css" crc="114769811" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="312386352" ref="index"/>
+    <file name="museutils.js" crc="4155826306" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="483509463" ref="index"/>
+    <file name="require.js" crc="228336483" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="star434x578.png" crc="4132690635" seo="true" ref="index"/>
+    <file name="wormhole445x593.png" crc="4089800822" seo="true" ref="index"/>
+    <file name="ship360x480.png" crc="3859482533" seo="true" ref="index"/>
+    <file name="meteors360x480.png" crc="134220951" seo="true" ref="index"/>
+  </folder>
+  <file name="index.html" crc="374000780" seo="true" mt="1475596449423" redirect="true"/>
+</manifest>
